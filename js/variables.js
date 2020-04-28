@@ -21,7 +21,7 @@ kintamuju:
  console.log( mokaSkraidyti );
  console.log( petriukoPazymiai );
  console.log( marytesPazymiai );
-
+ console.log( abc );
 
  let megstamasSkaicius = 5;
  console.log( 'Megstamas skaicius:', megstamasSkaicius );
