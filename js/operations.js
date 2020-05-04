@@ -31,7 +31,7 @@ console.log( pilnasVardas );
 
 // Mano megstama spalva yra "juoda".
 const spalva = 'raudona';
-const spalvosSakinys = 'Mano megstama spalva yra ".' + spalva + '"';
+const spalvosSakinys = 'Mano megstama spalva yra ".' + spalva + '".';
 console.log( spalvosSakinys );
 
 // Skaicius '20' yra lyginis.
